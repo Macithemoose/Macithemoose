@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Macithemoose
-- 👀 I’m interested in ...longboard dancing
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...simulations and any fun algorithms!
-- 📫 How to reach me ..
+- 👀 I’m interested in ...saxophone!
+- 🌱 I’m currently learning ... Python, ML with PyTorch and Tensorflow
+- 💞️ I’m looking to collaborate on ...computational neuroscience research.
+- 📫 How to reach me .. @mksimmon@usc.edu
 
 <!---
 Macithemoose/Macithemoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
