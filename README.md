@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Macithemoose
 - 👀 I’m interested in ...saxophone!
 - 🌱 I’m currently learning ... Python, ML with PyTorch and Tensorflow
-- 💞️ I’m looking to collaborate on ...computational neuroscience research.
 - 📫 How to reach me .. @mksimmon@usc.edu
 
 <!---
