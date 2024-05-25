@@ -1,8 +1,8 @@
 # :star: $\text{Hey, I'm Maci!}$ 
 
-## $$\begin{aligned}
-\text{I love learning and teaching math, and I also love tea, playing saxophone, and longboard dancing!}
-\end{aligned}$$
+## $$\begin{aligned}\text{I love learning and teaching math, and I also love tea, playing saxophone, and longboard dancing!}\end{aligned}$$
+
+
 
 ## $\text{I am currently working on research in the Computational Neuroscience department at USC, using machine learning tools to study PTSD!}$
 
