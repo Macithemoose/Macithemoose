@@ -1,4 +1,4 @@
-<p style = "text align: center;" :star: $\text{Hey, I'm Maci!}$ </p>
+# :star: $\text{Hey, I'm Maci!}$ 
 $$\begin{aligned}
 \text{I love learning and teaching math, and I also love tea, playing saxophone, and longboard dancing!}
 \end{aligned}$$
