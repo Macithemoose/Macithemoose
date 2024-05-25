@@ -1,5 +1,6 @@
 # :star: $\text{Hey, I'm Maci!}$ 
-$$\begin{aligned}
+
+## $$\begin{aligned}
 \text{I love learning and teaching math, and I also love tea, playing saxophone, and longboard dancing!}
 \end{aligned}$$
 
