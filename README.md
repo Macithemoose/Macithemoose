@@ -1,4 +1,4 @@
-<p style="color: periwinkle;">Hey, I'm Maci!</p>
+<h2 style="color: #00CED1;">Hey, I'm Maci!</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+Pandas,+PyTorch,+Tensorflow,+Tableau&color=CCCCFF)](https://git.io/typing-svg)
 
