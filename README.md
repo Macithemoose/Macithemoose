@@ -6,7 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=learning+pandas,+pytorch,+tensorflow&color=CCCCFF" alt="Typing SVG">
 </div>
 
-[![Maci's stats:](https://github-readme-stats.vercel.app/api?username=macithemoose&hide_rank=True&show_icons=True&theme=catppuccin_latte)]
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=macithemoose&hide_rank=True&show_icons=True&theme=catppuccin_latte" alt="Maci's stats">
+</div>
 
 <div>
   <h2 style="color: #00CED1;">some of my projects:</h2>
