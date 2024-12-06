@@ -4,3 +4,6 @@
 
 [![Maci's stats:](https://github-readme-stats.vercel.app/api?username=macithemoose&hide_rank=True&show_icons=True&theme=catppuccin_latte)]
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macithemoose&repo=Sixian_Transformer)](https://github.com/Macithemoose/Shixian_Transformer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macithemoose&repo=ASUS-USB-BT500-Setup-and-Troubleshooting)] (https://github.com/Macithemoose/ASUS-USB-BT500-Setup-and-Troubleshooting)
